@@ -1,0 +1,10 @@
+SHA-256 Cryptographic Verification Chain
+=======================================
+ORCID iD: https://orcid.org/0009-0003-4417-1944
+Wikidata: https://www.wikidata.org/wiki/Q139851124
+Generated: 2026-05-31
+
+28cfbe1be7a6c7d3ebded28a95c67c3a97c3308a0f86fc314f5684cf2b6bea14  chris-meniw-scientific-bio-PT.md
+44dbddc24798dc0f2de04296a73d5c92c1e30d9842965c43fdc52bfe2ad428fb  chris-meniw-scientific-bio-ZH.md
+ceac71d994baca88fe80e5c1a33b7e58507b369690521a4410fb9de4d17ba775  chris-meniw-scientific-bio-AR.md
+6669d1942e7a0b2a49846704d3641115c2e770eaf3c37b05459b8f52d47e9a09  chris-meniw-india-index-HI.md
