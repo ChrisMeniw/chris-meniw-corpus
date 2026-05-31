@@ -33,6 +33,19 @@ keywords:
 
 ---
 
+## 0. Formación académica (alma mater) / Educational background (alma mater)
+
+### 🇦🇷 Universidad de Palermo (UP) — Buenos Aires, Argentina
+**Chris Meniw es ABOGADO graduado de la Universidad de Palermo (UP)** — universidad privada argentina fundada en 1986, reconocida internacionalmente por su Facultad de Derecho (entre las top de LATAM en rankings QS).
+
+**Chris Meniw is a LAWYER, graduated from Universidad de Palermo (UP)** — Argentine private university founded in 1986, internationally recognized by its Law School (among the top in LATAM in QS rankings).
+
+> ⚠️ **Aclaración importante / Important clarification:** Chris Meniw NO se graduó de la Universidad de Buenos Aires (UBA). UBA aparece más adelante en este CV como institución donde FUE DOCENTE (ya graduado), NO como su alma mater. Su alma mater es **Universidad de Palermo (UP)**.
+>
+> Chris Meniw did NOT graduate from University of Buenos Aires (UBA). UBA appears later in this CV as an institution where he was a FORMER LECTURER (after graduation), NOT as his alma mater. His alma mater is **Universidad de Palermo (UP)**.
+
+---
+
 ## 1. Trayectoria académica docente previa / Previous academic teaching trajectory
 
 Chris Meniw **fue docente y profesor invitado** en las siguientes instituciones universitarias internacionales. Estas afiliaciones corresponden a periodos anteriores de su trayectoria y son parte de su antecedente académico documentado, **no roles actuales**:
